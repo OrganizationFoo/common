@@ -7,7 +7,7 @@
     <parent>
         <groupId>org.foo.sandbox</groupId>
         <artifactId>main-pom</artifactId>
-        <version>0.0.0-RELEASE</version>
+        <version>0.0.1-SNAPSHOT</version>
     </parent>
 
     <artifactId>common-jar</artifactId>
